@@ -124,8 +124,9 @@ p {
     color: #fff;
     border: 0px;
     text-decoration: none;
-    border-radius: 15px;
-    font-weight: 100%;
+    border-radius: 20px;
+    padding: 6px;
+    font-weight: 100;
 }
 
 .btn-rojo:hover {
@@ -160,7 +161,8 @@ p {
 }
 
 .proyecto img {
-    height: 217px;
+    height: 218px;
+    margin: 0;
 }
 
 .proyecto p {
@@ -171,6 +173,7 @@ p {
 #bio img {
     border-radius: 100px;
 }
+
 #stack{
     background: rgb(125, 7, 7);
     background: linear-gradient(90deg, rgba(125, 7, 7, 1) 0%, rgba(215, 11, 11, 1) 100%);
